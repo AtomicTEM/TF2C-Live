@@ -1,0 +1,9 @@
+"Refract"
+{
+	"%keywords" "tf"
+	"$refractamount" "0"
+	"$forcerefract" "0"
+	"$model" "1"
+	"$refracttint" "{127.5 127.5 510}"
+	"$bluramount" "-1"
+}

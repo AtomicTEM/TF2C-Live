@@ -1,0 +1,38 @@
+"Refract"
+{
+	<dx90
+	{
+		 	"$fallbackmaterial" "effects/softzoom_overlay_dx80"
+	}
+
+	"%keywords" "tf"
+	"$refractamount" ".02"
+	"$forcerefract" "1"
+	"$model" "1"
+	"$refracttint" "{32 32 32}"
+	"$normalmap" "effects/softzoom_overlay_normal"
+	"$bumpframe" "0"
+	"$bluramount" "1"
+	
+	"$translate" "[0 0]"
+	"$angle" "[0]"
+	"$center" "[.5 .5]"
+	"$scale" "[.75 .75]"
+	
+	"Proxies"
+	{
+		"SoftZoomScale"
+		{
+			"resultVar"	"$scale"
+		}
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"centerVar" "$center"
+			"scaleVar" "$scale"
+			"resultVar" "$bumptransform"
+		}
+	}
+}
+
