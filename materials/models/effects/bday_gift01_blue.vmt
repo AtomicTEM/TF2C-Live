@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/effects/bday_gift01.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/effects/bday_gift01_blue"
+	}
+}

@@ -1,0 +1,12 @@
+"Patch"
+{
+	include "materials\models\effects\invulnfx_red.vmt"
+	
+	insert
+	{
+	"$basetexture"	"effects/blue"
+	"$detail" "models/player/shared/blue_uber"
+	"$detailblendfactor" "0.78"
+	"$envmap" "effects/invun_blue"
+	}
+}
