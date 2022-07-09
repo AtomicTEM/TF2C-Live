@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture2"	"metal/metalwall001"
+	"$basetexture"	"nature/snow_full001"
+	"$bumpmap2"	"metal/metalwall001_normal"
+	"$bumpmap"	"nature/snow_full001_normal"
+	"$ssbump"	"1"
+	"$blendmodulatetexture" "metal/metalwall_blendmask"
+	"%tooltexture" "metal/metalwallblend_tooltex"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+}

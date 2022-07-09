@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$normalmapalphaenvmapmask" "1"
+	"$alpha" "1.000000"
+	"$basetexture" "metal/brushedsteel001"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 200 200 255 }"
+	"$bumpmap" "metal/brushedsteel_normal001"
+	"%keywords" "tf"
+}

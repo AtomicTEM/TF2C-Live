@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture"	"mayan_beach\nature\white_sand01"
+	"$basetexture2" "mayan_beach\nature\white_sand02"
+	"$bumpmap2" "mayan_beach\nature\white_sand_height-ssbump01"
+	//"%detailtype" "tf_grass"
+	"%tooltexture" "mayan_beach\nature\tooltexture_sandtowavy"
+	"$surfaceprop" "sand"
+	"%keywords" "tf,mayan,pacific,aztec,beach"
+	"$ssbump" "1"
+}
