@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "koth_frigid/concretewall_frigid_001"
+//	"$bumpmap" "Concrete/concretewall002_bump-ssbump"
+//        "$ssbump" "1"
+	"%keywords" "tf"
+	"$detail" "overlays/detail001"
+	"$detailscale" "1.9"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}
