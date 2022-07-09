@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "invade/countdown_2"
+	"$translucent" 1
+	"$decal" 1
+	"%keywords" "tf"
+}
