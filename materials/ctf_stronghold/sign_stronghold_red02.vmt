@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ctf_stronghold/sign_stronghold_red02"
+	"$translucent" 1
+}
