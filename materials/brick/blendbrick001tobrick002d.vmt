@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "brick/brickwall001"
+	"$basetexture2" "brick/brickwall002d"
+	"$blendmodulatetexture" "brick/brickwall_modulatetexture"
+	"$bumpmap" "Brick/brickwall002_height-ssbump"
+	"$ssbump" "1"
+	"%tooltexture" "brick/tool_brickblend001to002d"
+	"%keywords" "tf"
+}
