@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/rockground008"
+	"$basetexture2" "construction/concrete/concreteground001"
+	"%tooltexture" "construction/concreteblendground005_tooltexture"
+	"$bumpmap" "Nature/rockground002_height-ssbump"
+	"$bumpmap2" "concrete/concretefloor007b_height-ssbump"
+	"$blendmodulatetexture" "concrete/concretefloor007b_blendmask"
+	"%keywords" "tf"
+	"$ssbump" "1"
+	"$surfaceprop2" "concrete"
+	"$surfaceprop" "dirt"
+
+
+}

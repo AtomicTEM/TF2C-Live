@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "construction/signs/caution_unstable"
+	"$translucent" 1
+	"$decal" 1
+	"%keywords" "tf,construction"
+}
